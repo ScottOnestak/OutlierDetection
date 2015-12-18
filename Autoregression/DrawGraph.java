@@ -1,3 +1,5 @@
+//code by Scott Onestak
+
 import java.util.ArrayList;
 import java.awt.BasicStroke;
 import java.awt.Color;
